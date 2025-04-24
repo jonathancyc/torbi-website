@@ -141,7 +141,7 @@ export default function Home() {
                   {/* Fixed video container to properly fill space */}
                   <div className="w-full h-0 pb-[56.25%] relative bg-gray-800 rounded-xl">
                     <iframe
-                      src="https://www.youtube.com/embed/mtO_-4rpmmc"
+                      src="https://youtu.be/uJIBaHtEnH8"
                       title="Torbi Demo V1"
                       className="absolute top-0 left-0 w-full h-full rounded-xl"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
